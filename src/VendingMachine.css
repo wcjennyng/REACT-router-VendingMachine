@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 173, 140)
+}
+
+.VM {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
+
+.VM h1 {
+    font-style: italic;
+    color: green; 
+}
+
+.VM-links {
+    position: absolute;
+    top: 58%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+}
+
+.VM-links h3 {
+    background-color: rgba(224, 205, 205, 0.5);
+    padding: 10px;
+}
+
+
